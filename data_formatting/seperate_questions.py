@@ -66,7 +66,7 @@ def create_table_per_question(filepath, sheet_name, folder_path):
         #     filename = filename[:250]
         filename = "Question_" + str(i)
         question_tables[question].to_csv(os.path.join(folder_path, filename+".csv"),  index=False)
-
+        i+=1
     # print(question_tables)
 
 
@@ -92,5 +92,5 @@ def find_faulty_tables(folder_path):
 
 
 if __name__ == '__main__':
-    # create_table_per_question("../provided_data/Kundenmonitor_GKV_2023.xlsx", "Band", "../formatted_data/Kundenmonitor_GKV_2023/Band")
-    find_faulty_tables("../formatted_data/Kundenmonitor_GKV_2023/Band")
+    create_table_per_question("/Users/noorishhassan/Documents/uni/sem3/data_science/project/DS_Project/provided_data/Kundenmonitor_GKV_2023.xlsx", "Band", "/Users/noorishhassan/Documents/uni/sem3/data_science/project/DS_Project/formatted_data/Kundenmonitor_GKV_2023/Band")
+    find_faulty_tables("/Users/noorishhassan/Documents/uni/sem3/data_science/project/DS_Project/formatted_data/Kundenmonitor_GKV_2023/Band")
