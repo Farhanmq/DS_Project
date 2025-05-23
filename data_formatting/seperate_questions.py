@@ -1,6 +1,6 @@
 import os.path
 import pandas as pd
-from slugify import slugify
+# from slugify import slugify
 
 
 def create_table_per_question(filepath, sheet_name, folder_path):
@@ -81,16 +81,17 @@ def question_to_string(question_table: pd.DataFrame) -> str:
     for i in range(len(question_table)):
         if question_string != "":
             question_string += " | "
-        question_string += str(question_table.iloc[i,0])
+        question_string += str(question_table.iloc[i, 0])
     return question_string
 
 
 def find_faulty_tables(folder_path):
     for file in os.listdir(folder_path):
-        df = pd.read_csv(os.join(folder_path, file))
-        if df.columns[2] != "Gesamt":
+        df = pd.read_csv(os.path.join(folder_path, file))
+        if df.columns[1] != "Gesamt":
             print("faulty table: " + file)
 
 
 if __name__ == '__main__':
-    create_table_per_question("../provided_data/Kundenmonitor_GKV_2023.xlsx", "Band", "/formatted_data/Kundenmonitor_GKV_2023/Band")
+    # create_table_per_question("../provided_data/Kundenmonitor_GKV_2023.xlsx", "Band", "../formatted_data/Kundenmonitor_GKV_2023/Band")
+    find_faulty_tables("../formatted_data/Kundenmonitor_GKV_2023/Band")
