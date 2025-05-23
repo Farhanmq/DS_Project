@@ -4,26 +4,26 @@ import pandas as pd
 
 
 def create_table_per_question(filepath, sheet_name, folder_path):
-    table = pd.read_excel(filepath, sheet_name=sheet_name, header=None).fillna(method='ffill', axis=1)
+    table =pd.read_excel(filepath,sheet_name=sheet_name,header=None).fillna(method='ffill',axis=1)
     # print(table)
 
-    # get indices of nan rows
+    #get indicies of nan rows
     nan_rows = table.isna().all(axis=1)
     nan_rows = nan_rows.where(cond=(nan_rows==True)).dropna()
     # print(nan_rows)
 
-    # init question_tables dict
+    #init question_tables dict
     question_tables = dict()
 
     # read tables
-    last_index = - 1
-    second_last_index = - 2
-    current_question = ""
+    last_index=-1
+    second_last_index=-2
+    current_question=""
 
     for i in range(len(nan_rows)):
-        if last_index != nan_rows.index[i] - 1 and second_last_index == last_index - 1:
+        if last_index != nan_rows.index[i] -1 and second_last_index == last_index -1:
             # read question
-            question_raw = table.iloc[last_index+1:nan_rows.index[i] ,:]
+            question_raw = table.iloc[last_index+1:nan_rows.index[i],:]
 
             if current_question != question_to_string(question_raw):
                 # New question gets added to the dictionary
@@ -32,6 +32,7 @@ def create_table_per_question(filepath, sheet_name, folder_path):
 
             # print(question_to_string(question_raw))
             # print(question_raw)
+
 
         elif last_index == nan_rows.index[i] -1:
             # add table to question list
@@ -92,5 +93,5 @@ def find_faulty_tables(folder_path):
 
 
 if __name__ == '__main__':
-    create_table_per_question("/Users/noorishhassan/Documents/uni/sem3/data_science/project/DS_Project/provided_data/Kundenmonitor_GKV_2023.xlsx", "Band", "/Users/noorishhassan/Documents/uni/sem3/data_science/project/DS_Project/formatted_data/Kundenmonitor_GKV_2023/Band")
-    find_faulty_tables("/Users/noorishhassan/Documents/uni/sem3/data_science/project/DS_Project/formatted_data/Kundenmonitor_GKV_2023/Band")
+    create_table_per_question("../provided_data/Kundenmonitor_GKV_2023.xlsx", "Band", "../formatted_data/Kundenmonitor_GKV_2023/Band")
+    find_faulty_tables("../formatted_data/Kundenmonitor_GKV_2023/Band")
