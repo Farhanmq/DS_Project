@@ -1,10 +1,15 @@
 import os.path
+
+import numpy as np
 import pandas as pd
+from numpy.ma.core import shape
+
+
 # from slugify import slugify
 
 
 def create_table_per_question(filepath, sheet_name, folder_path):
-    table =pd.read_excel(filepath,sheet_name=sheet_name,header=None).fillna(method='ffill',axis=1)
+    table =pd.read_excel(filepath,sheet_name=sheet_name,header=None)
     # print(table)
 
     #get indicies of nan rows
@@ -35,6 +40,7 @@ def create_table_per_question(filepath, sheet_name, folder_path):
 
 
         elif last_index == nan_rows.index[i] -1:
+            table.iloc[second_last_index+1,:].ffill(inplace=True)
             # add table to question list
             question_tables[current_question].append(pd.DataFrame(table.iloc[second_last_index+1:last_index, :])
                                                      .reset_index(drop=True))
@@ -61,14 +67,23 @@ def create_table_per_question(filepath, sheet_name, folder_path):
         os.makedirs(folder_path)
 
     i = 1
+    question_list = []
     for question in question_tables.keys():
         # filename = slugify(question)
         # if len(filename) > 250:
         #     filename = filename[:250]
         filename = "Question_" + str(i)
+        question_list.append(filename)
         question_tables[question].to_csv(os.path.join(folder_path, filename+".csv"),  index=False)
         i+=1
-    # print(question_tables)
+
+    # questions = np.empty(shape=(len(question_list),2))
+    # questions[:,0] = question_list
+    # questions[:,1] = question_tables.keys()
+    # write questions table
+    question_table =pd.DataFrame({"Question Nr":question_list,"Question": question_tables.keys() },
+                                 columns=["Question Nr","Question"])
+    question_table.to_csv(os.path.join(folder_path, "question_table.csv"), index=False)
 
 
 def question_to_string(question_table: pd.DataFrame) -> str:
@@ -88,7 +103,7 @@ def question_to_string(question_table: pd.DataFrame) -> str:
 def find_faulty_tables(folder_path):
     for file in os.listdir(folder_path):
         df = pd.read_csv(os.path.join(folder_path, file))
-        if df.columns[1] != "Gesamt":
+        if file != "question_table.csv" and df.columns[1] != "Gesamt":
             print("faulty table: " + file)
 
 
