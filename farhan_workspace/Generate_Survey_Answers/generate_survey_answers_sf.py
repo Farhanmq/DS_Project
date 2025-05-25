@@ -1,0 +1,73 @@
+'''
+    IMPORTANT - This code will generate a single file with multiple sheets; Each sheet has answers for each seperate question.
+'''
+
+import os
+import pandas as pd
+
+# Find excel file path
+dir_name = os.path.dirname(__file__)
+excel_path = os.path.join(dir_name,'../../provided_data/230807_Survey.xlsx')
+if not os.path.exists(excel_path):
+    print("Path not found:", excel_path)
+else:
+    print("File found at:", excel_path)
+
+
+# Load the Excel file
+xls = pd.ExcelFile(excel_path)
+
+# Load sheets
+codebook_df = pd.read_excel(xls, sheet_name='Codebook')
+result_df = pd.read_excel(xls, sheet_name='Result')
+
+try:
+    phase_col_index = result_df.columns.get_loc('Phase')
+    headers_after_phase = result_df.iloc[:, phase_col_index + 1:].columns.tolist()
+except KeyError:
+    headers_after_phase = []
+
+# Initialize the Excel writer
+with pd.ExcelWriter("Survey_Answers_All.xlsx", engine='xlsxwriter') as writer:
+    for header in headers_after_phase:
+        try:
+            question_start_idx = codebook_df[codebook_df['Question'] == header].index[0]
+            question_end_idx = codebook_df.iloc[question_start_idx + 1:].index[
+                codebook_df.iloc[question_start_idx + 1:]['Question'].notna()
+            ].min()
+            question_block = codebook_df.iloc[question_start_idx:question_end_idx]
+
+            # Metadata
+            question_question_code = question_block.iloc[0]['Question']
+            question_type = question_block.iloc[0]['Type']
+            question_name = question_block.iloc[0]['Name']
+
+            value_label_map = question_block[['Value', 'Label']].dropna().set_index('Value')['Label'].to_dict()
+
+            # Get answers
+            question_column = question_question_code
+            question_answers_df = result_df[['Participant', question_column]].copy()
+
+            def map_label(value):
+                try:
+                    key = int(value)
+                except:
+                    key = value
+                return f"{value} - {value_label_map.get(key, 'NULL')}"
+
+            question_answers_df['Answer'] = question_answers_df[question_column].apply(map_label)
+
+            # Add metadata
+            question_answers_df[header] = question_question_code
+            question_answers_df['Type'] = question_type
+            question_answers_df['Name'] = question_name
+
+            # Reorder columns
+            final_df = question_answers_df[['Participant', header, 'Type', 'Name', 'Answer']]
+
+            # Write to Excel sheet
+            sheet_name = header[:31]  # Excel limits sheet names to 31 characters
+            final_df.to_excel(writer, sheet_name=sheet_name, index=False)
+
+        except Exception as e:
+            print(f"Skipping {header} due to error: {e}")
