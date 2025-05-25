@@ -19,6 +19,11 @@ xls = pd.ExcelFile(excel_path)
 codebook_df = pd.read_excel(xls, sheet_name='Codebook')
 result_df = pd.read_excel(xls, sheet_name='Result')
 
+# Apply forward-fill in-place for those columns
+columns_to_ffill = codebook_df.columns[[1, 2]]
+for col in columns_to_ffill:
+    codebook_df[col] = codebook_df[col].ffill()
+
 try:
     phase_col_index = result_df.columns.get_loc('Phase')
     headers_after_phase = result_df.iloc[:, phase_col_index + 1:].columns.tolist()
@@ -42,33 +47,36 @@ for header in headers_after_phase:
     # Create a dictionary for value-label mapping
     value_label_map = question_block[['Value', 'Label']].dropna().set_index('Value')['Label'].to_dict()
 
-    # Step 2: Extract Q1 answers from result sheet
-    question_column = question_question_code  # typically 'Q1'
+    # Step 2: Extract Question answers from result sheet
+    question_column = question_question_code # Question name like 'Q1', 'Q2' and so on
     question_answers_df = result_df[['Participant', question_column]].copy()
 
     # Step 3: Map answers to labels
     def map_label(value):
-        try:
-            key = int(value)
-        except:
-            key = value
-        return f"{value} - {value_label_map.get(key, 'NULL')}"
+        key = value
+            
+        if '0,1' in value_label_map:
+            return f"{value_label_map.get('0,1', 'NULL')}"
+        else:
+            return f"{value_label_map.get(key, 'NULL')}"
 
-    question_answers_df['Answer'] = question_answers_df[question_column].apply(map_label)
-
+    question_answers_df['Answer'] = question_answers_df[question_column]
+    question_answers_df['Value'] = question_answers_df[question_column].apply(map_label)
+    
     # Step 4: Add metadata columns
-    question_answers_df[header] = question_question_code
+    question_answers_df['Question'] = question_question_code
     question_answers_df['Type'] = question_type
     question_answers_df['Name'] = question_name
 
     # Step 5: Reorder columns
     final_df = question_answers_df[
         ['Participant',
-        header,
+        'Question',
         'Type',
         'Name',
-        'Answer']
+        'Answer',
+        'Value']
     ]
 
     # Step 6: Export to Excel
-    final_df.to_excel(header+"_Survey_Answers.xlsx", index=False)
+    final_df.to_excel("questions/"+header+"_Survey_Answers.xlsx", index=False)

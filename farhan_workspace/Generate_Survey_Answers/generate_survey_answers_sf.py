@@ -21,6 +21,11 @@ xls = pd.ExcelFile(excel_path)
 codebook_df = pd.read_excel(xls, sheet_name='Codebook')
 result_df = pd.read_excel(xls, sheet_name='Result')
 
+# Apply forward-fill in-place for those columns
+columns_to_ffill = codebook_df.columns[[1, 2]]
+for col in columns_to_ffill:
+    codebook_df[col] = codebook_df[col].ffill()
+
 try:
     phase_col_index = result_df.columns.get_loc('Phase')
     headers_after_phase = result_df.iloc[:, phase_col_index + 1:].columns.tolist()
@@ -49,21 +54,23 @@ with pd.ExcelWriter("Survey_Answers_All.xlsx", engine='xlsxwriter') as writer:
             question_answers_df = result_df[['Participant', question_column]].copy()
 
             def map_label(value):
-                try:
-                    key = int(value)
-                except:
-                    key = value
-                return f"{value} - {value_label_map.get(key, 'NULL')}"
+                key = value
+                
+                if '0,1' in value_label_map:
+                    return f"{value_label_map.get('0,1', 'NULL')}"
+                else:
+                    return f"{value_label_map.get(key, 'NULL')}"
 
-            question_answers_df['Answer'] = question_answers_df[question_column].apply(map_label)
+            question_answers_df['Answer'] = question_answers_df[question_column]
+            question_answers_df['Value'] = question_answers_df[question_column].apply(map_label)
 
             # Add metadata
-            question_answers_df[header] = question_question_code
+            question_answers_df['Question'] = question_question_code
             question_answers_df['Type'] = question_type
             question_answers_df['Name'] = question_name
 
             # Reorder columns
-            final_df = question_answers_df[['Participant', header, 'Type', 'Name', 'Answer']]
+            final_df = question_answers_df[['Participant', 'Question', 'Type', 'Name', 'Answer', 'Value']]
 
             # Write to Excel sheet
             sheet_name = header[:31]  # Excel limits sheet names to 31 characters
