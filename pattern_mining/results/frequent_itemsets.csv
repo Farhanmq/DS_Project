@@ -1,0 +1,1001 @@
+,support,itemsets,support_pct
+0,1.0,frozenset({'Q91_Alter'}),100.0
+555678,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555668,1.0,"frozenset({'Q58_Nutzung quad Video-/Onlineberatung', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555669,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+555670,1.0,"frozenset({'Q59_Geschlecht', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555671,1.0,"frozenset({'Q23_Bundesländer.4', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555672,1.0,"frozenset({'Q89_BKK', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555673,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+555674,1.0,"frozenset({'Q23_Bundesländer.4', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555675,1.0,"frozenset({'Q76_94.55611866412475', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555676,1.0,"frozenset({'Q23_Bundesländer.4', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555677,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+555679,1.0,"frozenset({'Q62_Beruf.1', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555691,1.0,"frozenset({'Q116_Wohnsituation', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555680,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+555681,1.0,"frozenset({'Q77_20.967204025320665', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555682,1.0,"frozenset({'Q77_48.75560286184606', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555683,1.0,"frozenset({'Q77_30.573116001834602', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555684,1.0,"frozenset({'Q88_Alter.5', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555685,1.0,"frozenset({'Q88_Nutzung Smartphone.1', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555686,1.0,"frozenset({'Q88_Berufstätigkeit des Befragten.2', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555687,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q102_Dauer der Kundenbeziehung.5'})",100.0
+555688,1.0,"frozenset({'Q102_Geschlecht.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555689,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q116_Alter.1'})",100.0
+555667,1.0,"frozenset({'Q58_Kontaktaufn.: Videotelefonie', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555666,1.0,"frozenset({'Q58_Reklamationszufriedenheit', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555665,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+555664,1.0,"frozenset({'Q70_61.777600178356806', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555643,1.0,"frozenset({'Q9_Kunden-begeisterung', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555644,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555645,1.0,"frozenset({'Q29_Personen im Haushalt.3', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555646,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q29_BIK-Stadtregion (in Tausend)'})",100.0
+555647,1.0,"frozenset({'Q29_Nutzung quad Newsletter', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555648,1.0,"frozenset({'Q23_Bundesländer.4', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555649,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+555650,1.0,"frozenset({'Q108_Beruf', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555651,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555652,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555653,1.0,"frozenset({'Q23_Bundesländer.4', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555654,1.0,"frozenset({'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555655,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555656,1.0,"frozenset({'Q28_Berufstätigkeit des Befragten.4', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555657,1.0,"frozenset({'Q98_Haushaltstypologie.4', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555658,1.0,"frozenset({'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555659,1.0,"frozenset({'Q23_Bundesländer.4', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555660,1.0,"frozenset({'Q99_Zuf. Aktive Betreuung.2', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555661,1.0,"frozenset({'Q99_Gesetzliche Krankenkasse.2', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555662,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer.4', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555663,1.0,"frozenset({'Q70_63.89293945455572', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555690,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q116_Arbeitswochenstunden', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555692,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555641,1.0,"frozenset({'Q133_Bildungsstatus', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555729,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555719,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+555720,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555721,1.0,"frozenset({'Q131_Haushaltsnettoeinkommen in Euro', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555722,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555723,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555724,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+555725,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+555726,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555727,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+555728,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555730,1.0,"frozenset({'Q133_Bildungsstatus', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555693,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555731,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555732,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q9_Kunden-begeisterung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555733,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555734,1.0,"frozenset({'Q29_Personen im Haushalt.3', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555735,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q29_BIK-Stadtregion (in Tausend)', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555736,1.0,"frozenset({'Q29_Nutzung quad Newsletter', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555737,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555738,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+555739,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q108_Beruf', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555740,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555718,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+555717,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555716,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555715,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555694,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+555695,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555696,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555697,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555698,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555699,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q115_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555700,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q115_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555701,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+555702,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Beruf.2'})",100.0
+555703,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+555704,1.0,"frozenset({'Q129_Personen im Haushalt.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung'})",100.0
+555705,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Alter'})",100.0
+555706,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+555707,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+555708,1.0,"frozenset({'Q128_Schnäppchen-Jäger', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555709,1.0,"frozenset({'Q128_Guter Ruf.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung'})",100.0
+555710,1.0,"frozenset({'Q100_Anpassung Zusatzbeitrag.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555711,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+555712,1.0,"frozenset({'Q100_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung'})",100.0
+555713,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555714,1.0,"frozenset({'Q114_Bundesländer.14', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555642,1.0,"frozenset({'Q23_Bundesländer.4', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555640,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555539,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+555576,1.0,"frozenset({'Q58_Reklamationszufriedenheit', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555566,1.0,"frozenset({'Q28_Berufstätigkeit des Befragten.4', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555567,1.0,"frozenset({'Q98_Haushaltstypologie.4', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555568,1.0,"frozenset({'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555569,1.0,"frozenset({'Q23_Bundesländer', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555570,1.0,"frozenset({'Q99_Zuf. Aktive Betreuung.2', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555571,1.0,"frozenset({'Q99_Gesetzliche Krankenkasse.2', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555572,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555573,1.0,"frozenset({'Q70_63.89293945455572', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555574,1.0,"frozenset({'Q70_61.777600178356806', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555575,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+555577,1.0,"frozenset({'Q58_Kontaktaufn.: Videotelefonie', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555589,1.0,"frozenset({'Q62_Beruf.1', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555578,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+555579,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+555580,1.0,"frozenset({'Q59_Geschlecht', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555581,1.0,"frozenset({'Q23_Bundesländer', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555582,1.0,"frozenset({'Q89_BKK', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555583,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+555584,1.0,"frozenset({'Q89_BKK (Fortsetzung).17', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555585,1.0,"frozenset({'Q76_94.55611866412475', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555586,1.0,"frozenset({'Q23_Bundesländer', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555587,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+555565,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555564,1.0,"frozenset({'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555563,1.0,"frozenset({'Q23_Bundesländer', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555562,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555541,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555542,1.0,"frozenset({'Q131_Haushaltsnettoeinkommen in Euro', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555543,1.0,"frozenset({'Q23_Bundesländer', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555544,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555545,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+555546,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+555547,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555548,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+555549,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555550,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555551,1.0,"frozenset({'Q133_Bildungsstatus', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555552,1.0,"frozenset({'Q23_Bundesländer', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555553,1.0,"frozenset({'Q9_Kunden-begeisterung', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555554,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555555,1.0,"frozenset({'Q29_Personen im Haushalt.3', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555556,1.0,"frozenset({'Q29_BIK-Stadtregion (in Tausend)', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555557,1.0,"frozenset({'Q29_Nutzung quad Newsletter', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555558,1.0,"frozenset({'Q23_Bundesländer', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555559,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+555560,1.0,"frozenset({'Q108_Beruf', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555561,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555588,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555590,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+555639,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer.4', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555627,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555617,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+555618,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+555619,1.0,"frozenset({'Q128_Schnäppchen-Jäger', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555620,1.0,"frozenset({'Q128_Guter Ruf.1', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555621,1.0,"frozenset({'Q100_Anpassung Zusatzbeitrag.1', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555622,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+555623,1.0,"frozenset({'Q100_BKK (Fortsetzung).17', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555624,1.0,"frozenset({'Q23_Bundesländer.4', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555625,1.0,"frozenset({'Q114_Bundesländer.14', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555626,1.0,"frozenset({'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555628,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555591,1.0,"frozenset({'Q77_20.967204025320665', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555629,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+555630,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+555631,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555632,1.0,"frozenset({'Q131_Haushaltsnettoeinkommen in Euro', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555633,1.0,"frozenset({'Q23_Bundesländer.4', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555634,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555635,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+555636,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+555637,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555638,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+555616,1.0,"frozenset({'Q129_Alter', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555615,1.0,"frozenset({'Q129_Personen im Haushalt.1', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555614,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+555613,1.0,"frozenset({'Q101_Beruf.2', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555592,1.0,"frozenset({'Q77_48.75560286184606', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555593,1.0,"frozenset({'Q77_30.573116001834602', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555594,1.0,"frozenset({'Q88_Alter.5', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555595,1.0,"frozenset({'Q88_Nutzung Smartphone.1', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555596,1.0,"frozenset({'Q88_Berufstätigkeit des Befragten.2', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555597,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555598,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555599,1.0,"frozenset({'Q102_Geschlecht.1', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555600,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q116_Alter.1'})",100.0
+555601,1.0,"frozenset({'Q23_Bundesländer.4', 'Q116_Arbeitswochenstunden', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555602,1.0,"frozenset({'Q116_Wohnsituation', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555603,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555604,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555605,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+555606,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555607,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555608,1.0,"frozenset({'Q23_Bundesländer.4', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555609,1.0,"frozenset({'Q23_Bundesländer.4', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555610,1.0,"frozenset({'Q115_Bildungsstatus', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555611,1.0,"frozenset({'Q115_Berufstätigkeit des Befragten.2', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555612,1.0,"frozenset({'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+555741,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555742,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555743,1.0,"frozenset({'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555881,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+555871,1.0,"frozenset({'Q102_Geschlecht.1', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555872,1.0,"frozenset({'Q102_Geschlecht.1', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555873,1.0,"frozenset({'Q102_Geschlecht.1', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555874,1.0,"frozenset({'Q102_Geschlecht.1', 'Q115_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555875,1.0,"frozenset({'Q102_Geschlecht.1', 'Q115_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555876,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+555877,1.0,"frozenset({'Q102_Geschlecht.1', 'Q101_Beruf.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555878,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+555879,1.0,"frozenset({'Q102_Geschlecht.1', 'Q129_Personen im Haushalt.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555880,1.0,"frozenset({'Q102_Geschlecht.1', 'Q129_Alter', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555882,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+555894,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+555883,1.0,"frozenset({'Q128_Schnäppchen-Jäger', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555884,1.0,"frozenset({'Q102_Geschlecht.1', 'Q128_Guter Ruf.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555885,1.0,"frozenset({'Q100_Anpassung Zusatzbeitrag.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q102_Geschlecht.1'})",100.0
+555886,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+555887,1.0,"frozenset({'Q102_Geschlecht.1', 'Q100_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555888,1.0,"frozenset({'Q102_Geschlecht.1', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555889,1.0,"frozenset({'Q102_Geschlecht.1', 'Q114_Bundesländer.14', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555890,1.0,"frozenset({'Q102_Geschlecht.1', 'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555891,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555892,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555870,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555869,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+555868,1.0,"frozenset({'Q102_Geschlecht.1', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555867,1.0,"frozenset({'Q102_Geschlecht.1', 'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555846,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+555847,1.0,"frozenset({'Q59_Geschlecht', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555848,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555849,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q89_BKK', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555850,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+555851,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555852,1.0,"frozenset({'Q76_94.55611866412475', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555853,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555854,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+555855,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555856,1.0,"frozenset({'Q62_Beruf.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555857,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+555858,1.0,"frozenset({'Q77_20.967204025320665', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555859,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q77_48.75560286184606', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555860,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q77_30.573116001834602', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555861,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q88_Alter.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555862,1.0,"frozenset({'Q88_Nutzung Smartphone.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555863,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q88_Berufstätigkeit des Befragten.2', 'Q102_Dauer der Kundenbeziehung.5'})",100.0
+555864,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q116_Alter.1'})",100.0
+555865,1.0,"frozenset({'Q102_Geschlecht.1', 'Q116_Arbeitswochenstunden', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555866,1.0,"frozenset({'Q102_Geschlecht.1', 'Q116_Wohnsituation', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555893,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+555895,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555744,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555932,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Geschlecht.1', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+555922,1.0,"frozenset({'Q102_Geschlecht.1', 'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555923,1.0,"frozenset({'Q102_Geschlecht.1', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555924,1.0,"frozenset({'Q99_Zuf. Aktive Betreuung.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q102_Geschlecht.1'})",100.0
+555925,1.0,"frozenset({'Q102_Geschlecht.1', 'Q99_Gesetzliche Krankenkasse.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555926,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555927,1.0,"frozenset({'Q102_Geschlecht.1', 'Q70_63.89293945455572', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555928,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_61.777600178356806'})",100.0
+555929,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+555930,1.0,"frozenset({'Q58_Reklamationszufriedenheit', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555931,1.0,"frozenset({'Q102_Geschlecht.1', 'Q58_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555933,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+555896,1.0,"frozenset({'Q131_Haushaltsnettoeinkommen in Euro', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555934,1.0,"frozenset({'Q59_Geschlecht', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555935,1.0,"frozenset({'Q102_Geschlecht.1', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555936,1.0,"frozenset({'Q102_Geschlecht.1', 'Q89_BKK', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555937,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+555938,1.0,"frozenset({'Q102_Geschlecht.1', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555939,1.0,"frozenset({'Q76_94.55611866412475', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555940,1.0,"frozenset({'Q102_Geschlecht.1', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555941,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+555942,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555943,1.0,"frozenset({'Q62_Beruf.1', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555921,1.0,"frozenset({'Q98_Haushaltstypologie.4', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555920,1.0,"frozenset({'Q102_Geschlecht.1', 'Q28_Berufstätigkeit des Befragten.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555919,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555918,1.0,"frozenset({'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555897,1.0,"frozenset({'Q102_Geschlecht.1', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555898,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555899,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+555900,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+555901,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555902,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+555903,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Geschlecht.1', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555904,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555905,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q133_Bildungsstatus'})",100.0
+555906,1.0,"frozenset({'Q102_Geschlecht.1', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555907,1.0,"frozenset({'Q102_Geschlecht.1', 'Q9_Kunden-begeisterung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555908,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555909,1.0,"frozenset({'Q29_Personen im Haushalt.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q102_Geschlecht.1'})",100.0
+555910,1.0,"frozenset({'Q102_Geschlecht.1', 'Q29_BIK-Stadtregion (in Tausend)', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555911,1.0,"frozenset({'Q29_Nutzung quad Newsletter', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555912,1.0,"frozenset({'Q102_Geschlecht.1', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555913,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+555914,1.0,"frozenset({'Q102_Geschlecht.1', 'Q108_Beruf', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555915,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555916,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Geschlecht.1', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555917,1.0,"frozenset({'Q102_Geschlecht.1', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555845,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+555844,1.0,"frozenset({'Q58_Kontaktaufn.: Videotelefonie', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555843,1.0,"frozenset({'Q58_Reklamationszufriedenheit', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555780,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555770,1.0,"frozenset({'Q77_20.967204025320665', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555771,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q77_48.75560286184606', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555772,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q77_30.573116001834602', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555773,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q88_Alter.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555774,1.0,"frozenset({'Q88_Nutzung Smartphone.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555775,1.0,"frozenset({'Q88_Berufstätigkeit des Befragten.2', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555776,1.0,"frozenset({'Q102_Geschlecht.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555777,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q116_Alter.1'})",100.0
+555778,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q116_Arbeitswochenstunden', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555779,1.0,"frozenset({'Q116_Wohnsituation', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555781,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555842,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+555782,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+555783,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555784,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555785,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555786,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555787,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q115_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555788,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q115_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555789,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+555790,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q101_Beruf.2', 'Q102_Dauer der Kundenbeziehung.5'})",100.0
+555791,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+555769,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+555768,1.0,"frozenset({'Q62_Beruf.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555767,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555766,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+555745,1.0,"frozenset({'Q28_Berufstätigkeit des Befragten.4', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555746,1.0,"frozenset({'Q98_Haushaltstypologie.4', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555747,1.0,"frozenset({'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555748,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555749,1.0,"frozenset({'Q99_Zuf. Aktive Betreuung.2', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555750,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q99_Gesetzliche Krankenkasse.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555751,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555752,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q70_63.89293945455572', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555753,1.0,"frozenset({'Q70_61.777600178356806', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555754,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+555755,1.0,"frozenset({'Q58_Reklamationszufriedenheit', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555756,1.0,"frozenset({'Q58_Kontaktaufn.: Videotelefonie', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555757,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+555758,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+555759,1.0,"frozenset({'Q59_Geschlecht', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555760,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555761,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q89_BKK', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555762,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+555763,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555764,1.0,"frozenset({'Q76_94.55611866412475', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555765,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555792,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q129_Personen im Haushalt.1', 'Q102_Dauer der Kundenbeziehung.5'})",100.0
+555793,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Alter'})",100.0
+555794,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+555819,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555821,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555822,1.0,"frozenset({'Q29_Personen im Haushalt.3', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555823,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q29_BIK-Stadtregion (in Tausend)', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555824,1.0,"frozenset({'Q29_Nutzung quad Newsletter', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555825,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555826,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+555827,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q108_Beruf', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555828,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555829,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555830,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555831,1.0,"frozenset({'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555832,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555833,1.0,"frozenset({'Q28_Berufstätigkeit des Befragten.4', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555834,1.0,"frozenset({'Q98_Haushaltstypologie.4', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555835,1.0,"frozenset({'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555836,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555837,1.0,"frozenset({'Q99_Zuf. Aktive Betreuung.2', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555838,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q99_Gesetzliche Krankenkasse.2', 'Q102_Dauer der Kundenbeziehung.5'})",100.0
+555839,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555840,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q70_63.89293945455572', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555841,1.0,"frozenset({'Q70_61.777600178356806', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555820,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q9_Kunden-begeisterung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555818,1.0,"frozenset({'Q133_Bildungsstatus', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555795,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+555817,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555796,1.0,"frozenset({'Q128_Schnäppchen-Jäger', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555797,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q128_Guter Ruf.1', 'Q102_Dauer der Kundenbeziehung.5'})",100.0
+555798,1.0,"frozenset({'Q100_Anpassung Zusatzbeitrag.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555799,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+555800,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q100_BKK (Fortsetzung).17', 'Q102_Dauer der Kundenbeziehung.5'})",100.0
+555801,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555802,1.0,"frozenset({'Q114_Bundesländer.14', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555803,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555804,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555805,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555806,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+555807,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+555808,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555809,1.0,"frozenset({'Q131_Haushaltsnettoeinkommen in Euro', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555810,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555811,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555812,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+555813,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+555814,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555815,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+555816,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555540,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+555538,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555945,1.0,"frozenset({'Q102_Geschlecht.1', 'Q77_20.967204025320665', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555271,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555261,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555262,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555263,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+555264,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+555265,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555266,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q131_Haushaltsnettoeinkommen in Euro'})",100.0
+555267,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555268,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555269,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+555270,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+555272,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+555284,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q108_Beruf', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555273,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555274,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555275,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q133_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555276,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555277,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q9_Kunden-begeisterung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555278,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555279,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q29_Personen im Haushalt.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555280,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q29_BIK-Stadtregion (in Tausend)', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555281,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q29_Nutzung quad Newsletter', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555282,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555260,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555259,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q114_Bundesländer.14', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555258,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555257,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q100_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555236,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q116_Wohnsituation', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555237,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555238,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555239,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+555240,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555241,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555242,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555243,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555244,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q115_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555245,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q115_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555246,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+555247,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q101_Beruf.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555248,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+555249,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q129_Personen im Haushalt.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555250,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q129_Alter', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555251,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+555252,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+555253,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q128_Schnäppchen-Jäger', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555254,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q128_Guter Ruf.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555255,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q100_Anpassung Zusatzbeitrag.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555256,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+555283,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+555285,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555234,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q116_Alter.1'})",100.0
+555322,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555312,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555313,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q62_Beruf.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555314,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+555315,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q77_20.967204025320665', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555316,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q77_48.75560286184606', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555317,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q77_30.573116001834602', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555318,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q88_Alter.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555319,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q88_Nutzung Smartphone.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555320,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q88_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555321,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555323,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555286,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555324,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555325,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555326,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555327,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q116_Alter.1'})",100.0
+555328,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q116_Arbeitswochenstunden', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555329,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q116_Wohnsituation', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555330,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555331,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555332,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+555333,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555311,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+555310,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555309,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q76_94.55611866412475', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555308,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555287,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555288,1.0,"frozenset({'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555289,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555290,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q28_Berufstätigkeit des Befragten.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555291,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q98_Haushaltstypologie.4'})",100.0
+555292,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555293,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555294,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q99_Zuf. Aktive Betreuung.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555295,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q99_Gesetzliche Krankenkasse.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555296,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555297,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q70_63.89293945455572', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555298,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q70_61.777600178356806', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555299,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+555300,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q58_Reklamationszufriedenheit'})",100.0
+555301,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q58_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555302,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+555303,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+555304,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q59_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555305,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555306,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q89_BKK', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555307,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+555235,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q116_Arbeitswochenstunden', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555233,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555537,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555169,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q21_Nutzung quad Wahltarif'})",100.0
+555159,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q128_Schnäppchen-Jäger', 'Q27_Bundesländer.11'})",100.0
+555160,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q128_Guter Ruf.1', 'Q27_Bundesländer.11'})",100.0
+555161,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q100_Anpassung Zusatzbeitrag.1', 'Q27_Bundesländer.11'})",100.0
+555162,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q100_Bundesländer.1'})",100.0
+555163,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q100_BKK (Fortsetzung).17', 'Q27_Bundesländer.11'})",100.0
+555164,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q114_Arbeitswochenstunden.2', 'Q27_Bundesländer.11'})",100.0
+555165,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q114_Bundesländer.14', 'Q27_Bundesländer.11'})",100.0
+555166,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q27_Bundesländer.11'})",100.0
+555167,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555168,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555170,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q131_Bildungsstatus.2'})",100.0
+555182,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q9_Net Promoter Score', 'Q27_Bundesländer.11'})",100.0
+555171,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11'})",100.0
+555172,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q131_Haushaltsnettoeinkommen in Euro', 'Q27_Bundesländer.11'})",100.0
+555173,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q130_Kontaktaufn.: Videotelefonie', 'Q27_Bundesländer.11'})",100.0
+555174,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555175,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q130_Alter'})",100.0
+555176,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q132_Nielsengebiete'})",100.0
+555177,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555178,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q132_Nutzung Payback'})",100.0
+555179,1.0,"frozenset({'Q27_Bundesländer.11', 'Q30_Berufstätigkeit des Befragten.1', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555180,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q133_BKK (Fortsetzung).13'})",100.0
+555158,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q128_Bundesländer.11'})",100.0
+555157,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q129_Bundesländer.2'})",100.0
+555156,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q129_Alter', 'Q27_Bundesländer.11'})",100.0
+555155,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q129_Personen im Haushalt.1', 'Q27_Bundesländer.11'})",100.0
+555134,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Nielsengebiete.1', 'Q27_Bundesländer.11'})",100.0
+555135,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer', 'Q27_Bundesländer.11'})",100.0
+555136,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Bundesländer.4', 'Q27_Bundesländer.11'})",100.0
+555137,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q27_Bundesländer.11'})",100.0
+555138,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q27_Bundesländer.11'})",100.0
+555139,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q102_Geschlecht.1', 'Q27_Bundesländer.11'})",100.0
+555140,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q116_Alter.1'})",100.0
+555141,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q116_Arbeitswochenstunden', 'Q27_Bundesländer.11'})",100.0
+555142,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q116_Wohnsituation', 'Q27_Bundesländer.11'})",100.0
+555143,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q27_Bundesländer.11'})",100.0
+555144,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q27_Bundesländer.11'})",100.0
+555145,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q117_BKK.2'})",100.0
+555146,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q22_Verhältnis zu sozialen Medien.2'})",100.0
+555147,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q27_Bundesländer.11'})",100.0
+555148,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q22_Net Promoter Score', 'Q27_Bundesländer.11'})",100.0
+555149,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q115_Geschlecht', 'Q27_Bundesländer.11'})",100.0
+555150,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q115_Bildungsstatus', 'Q27_Bundesländer.11'})",100.0
+555151,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q115_Berufstätigkeit des Befragten.2', 'Q27_Bundesländer.11'})",100.0
+555152,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q101_Arbeitswochenstunden.3'})",100.0
+555153,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q101_Beruf.2', 'Q27_Bundesländer.11'})",100.0
+555154,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q101_Haushaltstypologie.1'})",100.0
+555181,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q133_Bildungsstatus', 'Q27_Bundesländer.11'})",100.0
+555183,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q9_Kunden-begeisterung', 'Q27_Bundesländer.11'})",100.0
+555232,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555220,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q62_Bundesländer.5'})",100.0
+555210,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q59_Geschlecht', 'Q27_Bundesländer.11'})",100.0
+555211,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q59_Geschlecht.1', 'Q27_Bundesländer.11'})",100.0
+555212,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK', 'Q27_Bundesländer.11'})",100.0
+555213,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q89_BKK.5'})",100.0
+555214,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK (Fortsetzung).17', 'Q27_Bundesländer.11'})",100.0
+555215,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q76_94.55611866412475', 'Q27_Bundesländer.11'})",100.0
+555216,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q76_83.2695611882146', 'Q27_Bundesländer.11'})",100.0
+555217,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q76_80.46947200696766'})",100.0
+555218,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555219,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q62_Beruf.1', 'Q27_Bundesländer.11'})",100.0
+555221,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q77_20.967204025320665', 'Q27_Bundesländer.11'})",100.0
+555184,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555222,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q77_48.75560286184606', 'Q27_Bundesländer.11'})",100.0
+555223,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q77_30.573116001834602', 'Q27_Bundesländer.11'})",100.0
+555224,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q88_Alter.5', 'Q27_Bundesländer.11'})",100.0
+555225,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q88_Nutzung Smartphone.1', 'Q27_Bundesländer.11'})",100.0
+555226,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q88_Berufstätigkeit des Befragten.2', 'Q27_Bundesländer.11'})",100.0
+555227,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555228,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555229,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555230,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555231,1.0,"frozenset({'Q27_Bevorzugung von nachhaltigen Produkten', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555209,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q59_BKK (Fortsetzung).8'})",100.0
+555208,1.0,"frozenset({'Q27_Bundesländer.11', 'Q30_Berufstätigkeit des Befragten.1', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+555207,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q58_Kontaktaufn.: Videotelefonie', 'Q27_Bundesländer.11'})",100.0
+555206,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q58_Reklamationszufriedenheit'})",100.0
+555185,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q29_Personen im Haushalt.3', 'Q27_Bundesländer.11'})",100.0
+555186,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q29_BIK-Stadtregion (in Tausend)', 'Q27_Bundesländer.11'})",100.0
+555187,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q29_Nutzung quad Newsletter', 'Q27_Bundesländer.11'})",100.0
+555188,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q108_Personen im Haushalt.2', 'Q27_Bundesländer.11'})",100.0
+555189,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q108_Arbeitswochenstunden.2'})",100.0
+555190,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q108_Beruf', 'Q27_Bundesländer.11'})",100.0
+555191,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555192,1.0,"frozenset({'Q27_Bundesländer.11', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555193,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q27_Bundesländer.11'})",100.0
+555194,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q27_Bundesländer.11'})",100.0
+555195,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555196,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q28_Berufstätigkeit des Befragten.4', 'Q27_Bundesländer.11'})",100.0
+555197,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q98_Haushaltstypologie.4'})",100.0
+555198,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q27_Bundesländer.11'})",100.0
+555199,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q98_Zuf. Aktive Betreuung', 'Q27_Bundesländer.11'})",100.0
+555200,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q99_Zuf. Aktive Betreuung.2', 'Q27_Bundesländer.11'})",100.0
+555201,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q99_Gesetzliche Krankenkasse.2', 'Q27_Bundesländer.11'})",100.0
+555202,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555203,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q70_63.89293945455572', 'Q27_Bundesländer.11'})",100.0
+555204,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q70_61.777600178356806', 'Q27_Bundesländer.11'})",100.0
+555205,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bundesländer.11', 'Q70_64.20520686777013'})",100.0
+555334,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555335,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555336,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555474,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555464,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q29_Personen im Haushalt.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555465,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q29_BIK-Stadtregion (in Tausend)', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555466,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q29_Nutzung quad Newsletter', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555467,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555468,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+555469,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q108_Beruf', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555470,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555471,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Nielsengebiete.1', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555472,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555473,1.0,"frozenset({'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555475,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q28_Berufstätigkeit des Befragten.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555487,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Nielsengebiete.1', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+555476,1.0,"frozenset({'Q98_Haushaltstypologie.4', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555477,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555478,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555479,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q99_Zuf. Aktive Betreuung.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555480,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q99_Gesetzliche Krankenkasse.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555481,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Nielsengebiete.1', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555482,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q70_63.89293945455572', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555483,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q70_61.777600178356806', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555484,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+555485,1.0,"frozenset({'Q58_Reklamationszufriedenheit', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555463,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555462,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q9_Kunden-begeisterung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555461,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555460,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q133_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555439,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q128_Guter Ruf.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555440,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q100_Anpassung Zusatzbeitrag.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555441,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+555442,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q100_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555443,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555444,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q114_Bundesländer.14', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555445,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Nielsengebiete.1', 'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555446,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555447,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555448,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+555449,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+555450,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555451,1.0,"frozenset({'Q131_Haushaltsnettoeinkommen in Euro', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555452,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555453,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555454,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+555455,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+555456,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555457,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+555458,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Nielsengebiete.1', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555459,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555486,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q58_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555488,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+555337,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q115_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555525,1.0,"frozenset({'Q129_Personen im Haushalt.1', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555515,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+555516,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555517,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555518,1.0,"frozenset({'Q23_Bundesländer', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555519,1.0,"frozenset({'Q23_Bundesländer', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555520,1.0,"frozenset({'Q115_Bildungsstatus', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555521,1.0,"frozenset({'Q115_Berufstätigkeit des Befragten.2', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555522,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+555523,1.0,"frozenset({'Q101_Beruf.2', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555524,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+555526,1.0,"frozenset({'Q129_Alter', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555489,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q59_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555527,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+555528,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+555529,1.0,"frozenset({'Q128_Schnäppchen-Jäger', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555530,1.0,"frozenset({'Q128_Guter Ruf.1', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555531,1.0,"frozenset({'Q100_Anpassung Zusatzbeitrag.1', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555532,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+555533,1.0,"frozenset({'Q100_BKK (Fortsetzung).17', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555534,1.0,"frozenset({'Q23_Bundesländer', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555535,1.0,"frozenset({'Q114_Bundesländer.14', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555536,1.0,"frozenset({'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555514,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555513,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555512,1.0,"frozenset({'Q116_Wohnsituation', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555511,1.0,"frozenset({'Q23_Bundesländer', 'Q116_Arbeitswochenstunden', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555490,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555491,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q89_BKK', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555492,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+555493,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555494,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q76_94.55611866412475', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555495,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555496,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+555497,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555498,1.0,"frozenset({'Q62_Beruf.1', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555499,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+555500,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q77_20.967204025320665', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555501,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q77_48.75560286184606', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555502,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q77_30.573116001834602', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555503,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q88_Alter.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555504,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q88_Nutzung Smartphone.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555505,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q88_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555506,1.0,"frozenset({'Q23_Bundesländer.4', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555507,1.0,"frozenset({'Q102_Anzahl Endgeräte für Internetnutzung', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555508,1.0,"frozenset({'Q102_Dauer der Kundenbeziehung.5', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555509,1.0,"frozenset({'Q102_Geschlecht.1', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555510,1.0,"frozenset({'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1', 'Q116_Alter.1'})",100.0
+555438,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q128_Schnäppchen-Jäger', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555437,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q23_Nielsengebiete.1', 'Q128_Bundesländer.11'})",100.0
+555436,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+555373,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q29_BIK-Stadtregion (in Tausend)', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555363,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+555364,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+555365,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+555366,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+555367,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555368,1.0,"frozenset({'Q133_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555369,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555370,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q9_Kunden-begeisterung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555371,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+555372,1.0,"frozenset({'Q29_Personen im Haushalt.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555374,1.0,"frozenset({'Q29_Nutzung quad Newsletter', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555435,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q129_Alter', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555375,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555376,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+555377,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q108_Beruf', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555378,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+555379,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+555380,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555381,1.0,"frozenset({'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555382,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+555383,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q28_Berufstätigkeit des Befragten.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555384,1.0,"frozenset({'Q98_Haushaltstypologie.4', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555362,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+555361,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+555360,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555359,1.0,"frozenset({'Q131_Haushaltsnettoeinkommen in Euro', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555338,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q115_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555339,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+555340,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q101_Beruf.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555341,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+555342,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q129_Personen im Haushalt.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555343,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q129_Alter', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555344,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q129_Bundesländer.2'})",100.0
+555345,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+555346,1.0,"frozenset({'Q128_Schnäppchen-Jäger', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555347,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q128_Guter Ruf.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555348,1.0,"frozenset({'Q100_Anpassung Zusatzbeitrag.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555349,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+555350,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q100_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555351,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555352,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q114_Bundesländer.14', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555353,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555354,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+555355,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+555356,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+555357,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+555358,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555385,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555386,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555387,1.0,"frozenset({'Q99_Zuf. Aktive Betreuung.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555412,1.0,"frozenset({'Q88_Nutzung Smartphone.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555414,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q23_Bundesländer', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555415,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q23_Bundesländer.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555416,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q102_Anzahl Endgeräte für Internetnutzung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555417,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q102_Dauer der Kundenbeziehung.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555418,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555419,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q116_Alter.1'})",100.0
+555420,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q116_Arbeitswochenstunden', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555421,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q116_Wohnsituation', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555422,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q117_Anzahl Endgeräte für Internetnutzung.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555423,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555424,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+555425,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555426,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555427,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555428,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555429,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q115_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555430,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q115_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555431,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+555432,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q101_Beruf.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555433,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+555434,1.0,"frozenset({'Q23_Nielsengebiete.1', 'Q129_Personen im Haushalt.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555413,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q88_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555411,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q88_Alter.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555388,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q99_Gesetzliche Krankenkasse.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555410,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q77_30.573116001834602', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555389,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q99_Vergleich Kassensysteme.1'})",100.0
+555390,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q70_63.89293945455572', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555391,1.0,"frozenset({'Q70_61.777600178356806', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555392,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+555393,1.0,"frozenset({'Q58_Reklamationszufriedenheit', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555394,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q58_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555395,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+555396,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+555397,1.0,"frozenset({'Q59_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops'})",100.0
+555398,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555399,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q89_BKK', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555400,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+555401,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555402,1.0,"frozenset({'Q76_94.55611866412475', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555403,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555404,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+555405,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+555406,1.0,"frozenset({'Q62_Beruf.1', 'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555407,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+555408,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q77_20.967204025320665', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555409,1.0,"frozenset({'Q27_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q77_48.75560286184606', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555944,1.0,"frozenset({'Q102_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+555946,1.0,"frozenset({'Q102_Geschlecht.1', 'Q77_48.75560286184606', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+555132,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q27_Bevorzugung von nachhaltigen Produkten', 'Q27_Bundesländer.11'})",100.0
+556492,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q29_Nutzung quad Newsletter', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556482,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2'})",100.0
+556483,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nutzung Payback'})",100.0
+556484,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q133_Kontaktaufn.: Kontaktformular Website'})",100.0
+556485,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q133_BKK (Fortsetzung).13'})",100.0
+556486,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q133_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556487,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556488,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q9_Kunden-begeisterung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556489,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+556490,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q29_Personen im Haushalt.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556491,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q29_BIK-Stadtregion (in Tausend)', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556493,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q108_Personen im Haushalt.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556505,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q99_Zuf. Aktive Betreuung.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556494,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q108_Arbeitswochenstunden.2'})",100.0
+556495,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q108_Beruf', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556496,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_BIK-Stadtregion (in Tausend)'})",100.0
+556497,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q109_Anzahl Endgeräte für Internetnutzung.3'})",100.0
+556498,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q109_Digitalisierung ist eher positiv als negativ', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556499,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q28_Zuf. Schnelligkeit der Bearbeitung.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556500,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q28_Nutzung quad persönl. Kundenbereich.1'})",100.0
+556501,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q28_Berufstätigkeit des Befragten.4', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556502,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q98_Haushaltstypologie.4'})",100.0
+556503,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q98_Bevorzugung stationäre Geschäfte vor Onlineshops.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556481,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+556480,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter'})",100.0
+556479,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q130_Berufstätigkeit des Befragten.3'})",100.0
+556478,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556457,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+556458,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q101_Beruf.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556459,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+556460,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q129_Personen im Haushalt.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556461,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q129_Alter', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556462,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+556463,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+556464,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q128_Schnäppchen-Jäger', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556465,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q128_Guter Ruf.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556466,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q100_Anpassung Zusatzbeitrag.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556467,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+556468,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q100_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556469,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556470,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q114_Bundesländer.14', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556471,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556472,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+556473,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+556474,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+556475,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+556476,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q22_Verhältnis zu sozialen Medien.2'})",100.0
+556477,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q131_Haushaltsnettoeinkommen in Euro', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556504,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q98_Zuf. Aktive Betreuung', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556506,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q99_Gesetzliche Krankenkasse.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556455,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q115_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556543,1.0,"frozenset({'Q128_Schnäppchen-Jäger', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556533,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556534,1.0,"frozenset({'Q115_Bildungsstatus', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556535,1.0,"frozenset({'Q115_Berufstätigkeit des Befragten.2', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556536,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3'})",100.0
+556537,1.0,"frozenset({'Q101_Beruf.2', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556538,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1'})",100.0
+556539,1.0,"frozenset({'Q129_Personen im Haushalt.1', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556540,1.0,"frozenset({'Q129_Alter', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556541,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2'})",100.0
+556542,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11'})",100.0
+556544,1.0,"frozenset({'Q128_Guter Ruf.1', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556507,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q99_Vergleich Kassensysteme.1'})",100.0
+556545,1.0,"frozenset({'Q100_Anpassung Zusatzbeitrag.1', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556546,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1'})",100.0
+556547,1.0,"frozenset({'Q100_BKK (Fortsetzung).17', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556548,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556549,1.0,"frozenset({'Q114_Bundesländer.14', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556550,1.0,"frozenset({'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556551,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung'})",100.0
+556552,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+556553,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif'})",100.0
+556554,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2'})",100.0
+556532,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556531,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q88_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556530,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q88_Nutzung Smartphone.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556529,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q88_Alter.5', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556508,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q70_63.89293945455572', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556509,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q70_61.777600178356806', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556510,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013'})",100.0
+556511,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q58_Reklamationszufriedenheit'})",100.0
+556512,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q58_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556513,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q58_Nutzung quad Video-/Onlineberatung'})",100.0
+556514,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+556515,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q59_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556516,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556517,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q89_BKK', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556518,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+556519,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556520,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q76_94.55611866412475', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556521,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556522,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+556523,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+556524,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q62_Beruf.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556525,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+556526,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q77_20.967204025320665', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556527,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q77_48.75560286184606', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556528,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q77_30.573116001834602', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556456,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q115_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556454,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556353,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8'})",100.0
+556390,1.0,"frozenset({'Q114_Bundesländer.14', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556380,1.0,"frozenset({'Q129_Personen im Haushalt.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556381,1.0,"frozenset({'Q129_Alter', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556382,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q129_Bundesländer.2', 'Q117_BKK.2'})",100.0
+556383,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q128_Bundesländer.11', 'Q117_BKK.2'})",100.0
+556384,1.0,"frozenset({'Q128_Schnäppchen-Jäger', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556385,1.0,"frozenset({'Q128_Guter Ruf.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556386,1.0,"frozenset({'Q100_Anpassung Zusatzbeitrag.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556387,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q100_Bundesländer.1', 'Q117_BKK.2'})",100.0
+556388,1.0,"frozenset({'Q100_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556389,1.0,"frozenset({'Q114_Arbeitswochenstunden.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556391,1.0,"frozenset({'Q114_Bevorzugung stationäre Geschäfte vor Onlineshops', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556403,1.0,"frozenset({'Q132_Nutzung Payback', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556392,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Video-/Onlineberatung', 'Q117_BKK.2'})",100.0
+556393,1.0,"frozenset({'Q117_BKK.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q21_Kontaktaufn.: Videotelefonie'})",100.0
+556394,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q21_Nutzung quad Wahltarif', 'Q117_BKK.2'})",100.0
+556395,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q131_Bildungsstatus.2', 'Q117_BKK.2'})",100.0
+556396,1.0,"frozenset({'Q131_Berufstätigkeit des Befragten.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556397,1.0,"frozenset({'Q131_Haushaltsnettoeinkommen in Euro', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556398,1.0,"frozenset({'Q130_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556399,1.0,"frozenset({'Q130_Berufstätigkeit des Befragten.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556400,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q130_Alter', 'Q117_BKK.2'})",100.0
+556401,1.0,"frozenset({'Q117_BKK.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q132_Nielsengebiete'})",100.0
+556379,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q101_Haushaltstypologie.1', 'Q117_BKK.2'})",100.0
+556378,1.0,"frozenset({'Q101_Beruf.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556377,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q101_Arbeitswochenstunden.3', 'Q117_BKK.2'})",100.0
+556376,1.0,"frozenset({'Q115_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556355,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556356,1.0,"frozenset({'Q89_BKK', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556357,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5'})",100.0
+556358,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556359,1.0,"frozenset({'Q76_94.55611866412475', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556360,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556361,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+556362,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_BIK-Stadtregion (in Tausend).4'})",100.0
+556363,1.0,"frozenset({'Q62_Beruf.1', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556364,1.0,"frozenset({'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5'})",100.0
+556365,1.0,"frozenset({'Q77_20.967204025320665', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556366,1.0,"frozenset({'Q77_48.75560286184606', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556367,1.0,"frozenset({'Q77_30.573116001834602', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556368,1.0,"frozenset({'Q88_Alter.5', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556369,1.0,"frozenset({'Q88_Nutzung Smartphone.1', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556370,1.0,"frozenset({'Q88_Berufstätigkeit des Befragten.2', 'Q117_Anzahl Endgeräte für Internetnutzung.3', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556371,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556372,1.0,"frozenset({'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556373,1.0,"frozenset({'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556374,1.0,"frozenset({'Q115_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556375,1.0,"frozenset({'Q115_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556402,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q132_Verhältnis zu sozialen Medien.2', 'Q117_BKK.2'})",100.0
+556404,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q133_Kontaktaufn.: Kontaktformular Website', 'Q117_BKK.2'})",100.0
+556453,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q22_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556441,1.0,"frozenset({'Q76_83.2695611882146', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556431,1.0,"frozenset({'Q58_Reklamationszufriedenheit', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556432,1.0,"frozenset({'Q58_Kontaktaufn.: Videotelefonie', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556433,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q58_Nutzung quad Video-/Onlineberatung', 'Q117_BKK.2'})",100.0
+556434,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q59_BKK (Fortsetzung).8', 'Q117_BKK.2'})",100.0
+556435,1.0,"frozenset({'Q59_Geschlecht', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556436,1.0,"frozenset({'Q59_Geschlecht.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556437,1.0,"frozenset({'Q89_BKK', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556438,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q89_BKK.5', 'Q117_BKK.2'})",100.0
+556439,1.0,"frozenset({'Q89_BKK (Fortsetzung).17', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556440,1.0,"frozenset({'Q76_94.55611866412475', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556442,1.0,"frozenset({'Q117_BKK.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q76_80.46947200696766'})",100.0
+556405,1.0,"frozenset({'Q133_BKK (Fortsetzung).13', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556443,1.0,"frozenset({'Q62_BIK-Stadtregion (in Tausend).4', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556444,1.0,"frozenset({'Q62_Beruf.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556445,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q62_Bundesländer.5', 'Q117_BKK.2'})",100.0
+556446,1.0,"frozenset({'Q77_20.967204025320665', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556447,1.0,"frozenset({'Q77_48.75560286184606', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556448,1.0,"frozenset({'Q77_30.573116001834602', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556449,1.0,"frozenset({'Q88_Alter.5', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556450,1.0,"frozenset({'Q88_Nutzung Smartphone.1', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556451,1.0,"frozenset({'Q88_Berufstätigkeit des Befragten.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556452,1.0,"frozenset({'Q22_Verhältnis zu sozialen Medien.2', 'Q22_Digitalisierung ist eher positiv als negativ.2', 'Q30_Berufstätigkeit des Befragten.1'})",100.0
+556430,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q70_64.20520686777013', 'Q117_BKK.2'})",100.0
+556429,1.0,"frozenset({'Q70_61.777600178356806', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556428,1.0,"frozenset({'Q70_63.89293945455572', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556427,1.0,"frozenset({'Q30_Berufstätigkeit des Befragten.1', 'Q99_Vergleich Kassensysteme.1', 'Q117_BKK.2'})",100.0
+556406,1.0,"frozenset({'Q133_Bildungsstatus', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556407,1.0,"frozenset({'Q9_Net Promoter Score', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556408,1.0,"frozenset({'Q9_Kunden-begeisterung', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0
+556409,1.0,"frozenset({'Q117_BKK.2', 'Q30_Berufstätigkeit des Befragten.1', 'Q9_Legt Wert auf Nachhaltigkeit'})",100.0
+556410,1.0,"frozenset({'Q29_Personen im Haushalt.3', 'Q30_Berufstätigkeit des Befragten.1', 'Q117_BKK.2'})",100.0

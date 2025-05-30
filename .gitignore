@@ -41,6 +41,9 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# CSV files and formatted_data directory
-*.csv
-formatted_data/ 
+# Formatted data directory
+formatted_data/
+provided_data/
+
+# Allow pattern mining results
+!pattern_mining/results/*.csv 
