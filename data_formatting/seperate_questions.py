@@ -118,5 +118,5 @@ def find_faulty_tables(folder_path):
 
 
 if __name__ == '__main__':
-    create_table_per_question("../provided_data/Kundenmonitor_GKV_2023.xlsx", "Band", "../formatted_data/Kundenmonitor_GKV_2023/Band")
-    find_faulty_tables("../formatted_data/Kundenmonitor_GKV_2023/Band")
+    create_table_per_question("provided_data/Kundenmonitor_GKV_2023.xlsx", "Band", "formatted_data/Kundenmonitor_GKV_2023/Band")
+    find_faulty_tables("formatted_data/Kundenmonitor_GKV_2023/Band")
