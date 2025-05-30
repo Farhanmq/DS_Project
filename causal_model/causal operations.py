@@ -47,7 +47,7 @@ def causal_pattern_importance_assessment(patterns: list, patterns_to_questions: 
 
     return confounder_patterns
 
-def causal_pattern_influence(patterns: list, sov, threshold: float):
+def causal_pattern_inference(patterns: list, sov, threshold: float):
     graph_data = []
     for i in range(len(patterns)):
         graph_data.append(["P" + str(i), "SOV"])
