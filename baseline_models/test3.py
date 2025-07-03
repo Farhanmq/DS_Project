@@ -118,7 +118,7 @@ plt.title("Decision Tree")
 plt.show()
 
 # Optional: Visualize the Decision Tree
-plt.figure(figsize=(20, 10))
+plt.figure(figsize=(200, 100))
 plot_tree(tree, feature_names=X.columns, class_names=["No Switch", "Switch"], filled=True)
 plt.title("Decision Tree Structure")
 plt.show()
